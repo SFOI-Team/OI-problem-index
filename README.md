@@ -12,6 +12,8 @@
 
 也请在发起 Pull request 的时候提供相应的参考资料。
 
+同时欢迎加入 SFOI QQ 群：819843870 了解更多详情。
+
 ## Copyleft
 
 [![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
