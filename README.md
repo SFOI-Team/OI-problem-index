@@ -14,6 +14,14 @@
 
 同时欢迎加入 SFOI QQ 群：819843870 了解更多详情。
 
+## 格式规范
+
+在贡献本项目时请遵循以下几点基本要求：
+
+1. 表格的第一列留空（这一列主要用于使用者作标记用）。
+2. 对于非传统题（提答，交互，通讯）和有问题的题目（如错题）请打星号标记并注释。
+3. 表格各列均为左对齐。
+
 ## Copyleft
 
 [![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
