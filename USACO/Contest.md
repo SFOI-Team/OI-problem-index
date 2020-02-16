@@ -1,5 +1,113 @@
 # USACO Contests
 
+## Season 2017-2018
+
+### 2017 Dec
+
+#### Platinum
+
+|      | 编号 | 题号  | 题目名                     |
+| ---- | ---- | ----- | -------------------------- |
+|      | T1   | P4081 | Standing Out from the Herd |
+|      | T2   | P4082 | Push a Box                 |
+|      | T3   | P4090 | Greedy Gift Takers         |
+
+#### Gold
+
+|      | 编号 | 题号  | 题目名          |
+| ---- | ---- | ----- | --------------- |
+|      | T1   | P4083 | A Pie for a Pie |
+|      | T2   | P4084 | Barn Painting   |
+|      | T3   | P4085 | Haybale Feast   |
+
+#### Silver
+
+|      | 编号 | 题号  | 题目名                 |
+| ---- | ---- | ----- | ---------------------- |
+|      | T1   | P4086 | My Cow Ate My Homework |
+|      | T2   | P4087 | Milk Measurement       |
+|      | T3   | P4089 | The Bovine Shuffle     |
+
+### 2018 Jan
+
+#### Platinum
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P4182 | Lifeguards   |
+|      | T2   | P4183 | Cow at Large |
+|      | T3   | P4184 | Sprinklers   |
+
+#### Gold
+
+|      | 编号 | 题号  | 题目名         |
+| ---- | ---- | ----- | -------------- |
+|      | T1   | P4185 | MooTube        |
+|      | T2   | P4186 | Cow at Large   |
+|      | T3   | P4187 | Stamp Painting |
+
+#### Silver
+
+|      | 编号 | 题号  | 题目名         |
+| ---- | ---- | ----- | -------------- |
+|      | T1   | P4188 | Lifeguards     |
+|      | T2   | P4181 | Rental Service |
+|      | T3   | P6111 | MooTube        |
+
+### 2018 Feb
+
+#### Platinum
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P4088 | Slingshot    |
+|      | T2   | P4271 | New Barns    |
+|      | T3   | P4270 | Cow Gymnasts |
+
+#### Gold
+
+|      | 编号 | 题号  | 题目名              |
+| ---- | ---- | ----- | ------------------- |
+|      | T1   | P4269 | Snow Boots          |
+|      | T2   | P4268 | Directory Traversal |
+|      | T3   | P4267 | Taming the Herd     |
+
+#### Silver
+
+|      | 编号 | 题号  | 题目名        |
+| ---- | ---- | ----- | ------------- |
+|      | T1   | P4266 | Rest Stops    |
+|      | T2   | P4265 | Snow Boots    |
+|      | T3   | P4264 | Teleportation |
+
+### 2018 Open
+
+#### Platinum
+
+> 注：T2 为交互题。
+
+|      | 编号 | 题号  | 题目名         |
+| ---- | ---- | ----- | -------------- |
+|      | T1   | P4372 | Out of Sorts   |
+|      | T2\* | P4373 | Train Tracking |
+|      | T3   | P4374 | Disruption     |
+
+#### Gold
+
+|      | 编号 | 题号  | 题目名        |
+| ---- | ---- | ----- | ------------- |
+|      | T1   | P4375 | Out of Sorts  |
+|      | T2   | P4376 | Milking Order |
+|      | T3   | P4377 | Talent Show   |
+
+#### Silver
+
+|      | 编号 | 题号  | 题目名          |
+| ---- | ---- | ----- | --------------- |
+|      | T1   | P4378 | Out of Sorts    |
+|      | T2   | P4379 | Lemonade Line   |
+|      | T3   | P4380 | Multiplayer Moo |
+
 ## Season 2018-2019
 
 ### 2018 Dec
@@ -88,7 +196,7 @@
 
 |      | 编号 | 题号  | 题目名          |
 | ---- | ---- | ----- | --------------- |
-|      | T1   |       | Tree Boxes      |
+|      | T1\* |       | Tree Boxes      |
 |      | T2   | P5422 | Compound Escape |
 |      | T3   | P5423 | Valleys         |
 
