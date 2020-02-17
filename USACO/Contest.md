@@ -1,5 +1,113 @@
 # USACO Contests
 
+## Season 2016-2017
+
+### 2016 Dec
+
+#### Platinum
+
+|      | 编号 | 题号  | 题目名            |
+| ---- | ---- | ----- | ----------------- |
+|      | T1   | P1715 | Lots of Triangles |
+|      | T2   | P2098 | Team Building     |
+|      | T3   | P2541 | Robotic Cow Herd  |
+
+#### Gold
+
+|      | 编号 | 题号  | 题目名             |
+| ---- | ---- | ----- | ------------------ |
+|      | T1   | P2847 | Moocast            |
+|      | T2   | P2848 | Cow Checklist      |
+|      | T3   | P3036 | Lasers and Mirrors |
+
+#### Silver
+
+|      | 编号 | 题号  | 题目名            |
+| ---- | ---- | ----- | ----------------- |
+|      | T1   | P3184 | Counting Haybales |
+|      | T2   | P3405 | Cities and States |
+|      | T3   | P3416 | Moocast           |
+
+### 2017 Jan
+
+#### Platinum
+
+|      | 编号 | 题号  | 题目名               |
+| ---- | ---- | ----- | -------------------- |
+|      | T1   | P3605 | Promotion Counting   |
+|      | T2   | P3606 | Building a Tall Barn |
+|      | T3   | P3607 | Subsequence Reversal |
+
+#### Gold
+
+|      | 编号 | 题号  | 题目名                |
+| ---- | ---- | ----- | --------------------- |
+|      | T1   | P3608 | Balanced Photo        |
+|      | T2   | P3609 | Hoof, Paper, Scissors |
+|      | T3   | P3610 | Cow Navigation        |
+
+#### Silver
+
+|      | 编号 | 题号  | 题目名                |
+| ---- | ---- | ----- | --------------------- |
+|      | T1   | P3611 | Cow Dance Show        |
+|      | T2   | P6120 | Hoof, Paper, Scissors |
+|      | T3   | P3612 | Secret Cow Code       |
+
+### 2017 Feb
+
+#### Platinum
+
+|      | 编号 | 题号  | 题目名                             |
+| ---- | ---- | ----- | ---------------------------------- |
+|      | T1   | P3656 | Why Did the Cow Cross the Road I   |
+|      | T2   | P3657 | Why Did the Cow Cross the Road II  |
+|      | T3   | P3658 | Why Did the Cow Cross the Road III |
+
+#### Gold
+
+|      | 编号 | 题号  | 题目名                             |
+| ---- | ---- | ----- | ---------------------------------- |
+|      | T1   | P3659 | Why Did the Cow Cross the Road I   |
+|      | T2   | P6119 | Why Did the Cow Cross the Road II  |
+|      | T3   | P3660 | Why Did the Cow Cross the Road III |
+
+#### Silver
+
+|      | 编号 | 题号  | 题目名                             |
+| ---- | ---- | ----- | ---------------------------------- |
+|      | T1   | P3661 | Why Did the Cow Cross the Road I   |
+|      | T2   | P3662 | Why Did the Cow Cross the Road II  |
+|      | T3   | P3663 | Why Did the Cow Cross the Road III |
+
+### 2017 Open
+
+#### Platinum
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P3664 | Modern Art   |
+|      | T2   | P3665 | Switch Grass |
+|      | T3   | P3666 | COWBASIC     |
+
+#### Gold
+
+> 注：T2 因为标程有错误，最后被撤下，不计入总分。
+
+|      | 编号 | 题号  | 题目名          |
+| ---- | ---- | ----- | --------------- |
+|      | T1   | P3667 | Bovine Genomics |
+|      | T2\* |       | Modern Art      |
+|      | T3   | P3668 | Modern Art 2    |
+
+#### Silver
+
+|      | 编号 | 题号  | 题目名          |
+| ---- | ---- | ----- | --------------- |
+|      | T1   | P3669 | Paired Up       |
+|      | T2   | P3670 | Bovine Genomics |
+|      | T3   | P3671 | Where's Bessie? |
+
 ## Season 2017-2018
 
 ### 2017 Dec
