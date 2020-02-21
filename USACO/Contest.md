@@ -1,5 +1,297 @@
 # USACO Contests
 
+## Season 2013~2014
+
+### 2013 Nov
+
+#### Gold
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3090 | Empty Stalls |
+|  | T2 | P3091 | Line of Sight |
+|  | T3 | P3092 | No Change |
+
+#### Silver
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3087 | Farmer John has no Large Brown Cow |
+|  | T2 | P3088 | Crowded Cows |
+|  | T3 | P3089 | Pogo-Cow |
+
+### 2013 Dec
+
+#### Gold
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3096 | Vacation Planning |
+|  | T2 | P3097 | Optimal Milking |
+|  | T3 | P3098 | The Bessie Shuffle |
+
+#### Silver
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3093 | Milk Scheduling |
+|  | T2 | P3094 | Vacation Planning |
+|  | T3 | P3095 | The Bessie Shuffle |
+
+### 2014 Jan
+
+#### Gold
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3099 | Cow Curling |
+|  | T2 | P3100 | Building a Ski Course |
+|  | T3 | P3101 | Ski Course Rating |
+
+#### Silver
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P2338 | Bessie Slows Down |
+|  | T2 | P4955 | Cross Country Skiing |
+|  | T3 | P2255 | Recording the Moolympics |
+
+### 2014 Feb
+
+#### Gold
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P2176 | Roadblock |
+|  | T2 | P4877 | Cow Decathlon |
+|  | T3 | P3103 | Airplane Boarding |
+
+#### Silver
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P2237 | Auto-Complete |
+|  | T2 | P2176 | Roadblock |
+|  | T3 | P3102 | Secret Code |
+
+### 2014 Mar
+
+#### Gold
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P4876 | The Lazy Cow |
+|  | T2 | P2115 | Sabotage |
+|  | T3 | P3104 | Counting Friends |
+
+#### Silver
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P2212 | Watering the Fields |
+|  | T2 | P2213 | The Lazy Cow |
+|  | T3 | P2214 | Mooo Moo |
+
+### 2014 Open
+
+#### Gold
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P4875 | Fair Photography |
+|  | T2 | P3108 | Cow Optics |
+|  | T3 | P3109 | Code Breaking |
+
+#### Silver
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3105 | Fair Photography |
+|  | T2 | P3106 | Dueling GPSs |
+|  | T3 | P3107 | Odometer |
+
+## Season 2014-2015
+
+### 2014 Dec
+
+#### Gold
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3112 | Guard Mark |
+|  | T2 | P3113 | Marathon |
+|  | T3 | P4873 | Cow Jog |
+
+#### Silver
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3110 | Piggyback |
+|  | T2 | P2849 | Marathon |
+|  | T3 | P3111 | Cow Jog|
+
+### 2015 Jan
+
+#### Gold
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3117 | Cow Rectangles |
+|  | T2 | P3118 | Moovie Mooving |
+|  | T3 | P3119 | Grass Cownoisseur |
+
+#### Silver
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3114 | Stampede |
+|  | T2 | P3115 | Cow Routing |
+|  | T3 | P3116 | Meeting Time|
+
+### 2015 Feb
+
+#### Gold
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3120 | Cow Hopscotch |
+|  | T2 | P3121 | Censoring |
+|  | T3 | P3122 | Fencing the Herd|
+
+#### Silver
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P4824 | Censoring |
+|  | T2 | P4825 | Cow Hopscotch |
+|  | T3 | P4826 | Superbull|
+
+### 2015 Open
+
+#### Gold
+
+> 注：T1 为交互题。
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1\* |  | Googol |
+|  | T2 | P3126 | Palindromic Paths |
+|  | T3 | P3127 | Trapped in the Haybales |
+
+#### Silver
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3123 | Bessie Goes Moo |
+|  | T2 | P3124 | Trapped in the Haybales |
+|  | T3 | P3125 | Bessie's Birthday Buffet |
+
+## Season 2015-2016
+
+### 2015 Dec
+
+#### Platinum
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3128 | Max Flow |
+|  | T2 | P3129 | High Card Low Card |
+|  | T3 | P3130 | Counting Haybales |
+
+#### Gold
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P4816 | High Card Low Card |
+|  | T2 | P4817 | Fruit Feast |
+|  | T3 | P4818 |  Bessie's Dream |
+
+#### Silver
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P2845 | Switching on the Lights |
+|  | T2 |  | High Card Wins |
+|  | T3 |  | Breed Counting|
+
+### 2016 Jan
+
+#### Platinum
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3135 | Fort Moo |
+|  | T2 | P3136 | Mowing the Field |
+|  | T3 |  | Lights Out|
+
+#### Gold
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3132 | Angry Cows |
+|  | T2 | P3133 | Mowing the Field |
+|  | T3 | P3134 | Lights Out|
+
+#### Silver
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 |  | Angry Cows |
+|  | T2 | P3131 | Subsequences Summing to Sevens |
+|  | T3 | P2771 | Build Gates|
+
+### 2016 Feb
+
+#### Platinum
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 |  | Load Balancing |
+|  | T2 | P3141 | Fenced In |
+|  | T3 |  | Circular Barn|
+
+#### Gold
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 |  | Circular Barn |
+|  | T2 | P3140 | Circular Barn Revisited |
+|  | T3 |  | Fenced In|
+
+#### Silver
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3137 | Circular Barn |
+|  | T2 | P3138 | Load Balancing |
+|  | T3 | P3139 | Milk Pails|
+
+### 2016 Open
+
+#### Platinum
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3147 | 262144 |
+|  | T2 | P3148 | Bull in a China Shop |
+|  | T3 | P6125 | Landscaping |
+
+#### Gold
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3145 | Splitting the Field |
+|  | T2 | P6126 | Closing the Farm |
+|  | T3 | P3146 | 248 |
+
+#### Silver
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3142 | Field Reduction |
+|  | T2 | P3143 | Diamond Collector |
+|  | T3 | P3144 | Closing the Farm |
+
 ## Season 2016-2017
 
 ### 2016 Dec
