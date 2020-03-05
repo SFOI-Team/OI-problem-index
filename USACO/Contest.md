@@ -211,8 +211,8 @@
 |  | 编号 | 题号 | 题目名 |
 | :----------- | :----------- | :----------- | :----------- |
 |  | T1 | P2845 | Switching on the Lights |
-|  | T2 |  | High Card Wins |
-|  | T3 |  | Breed Counting|
+|  | T2 | P6179 | High Card Wins |
+|  | T3 | P6180 | Breed Counting|
 
 ### 2016 Jan
 
@@ -222,7 +222,7 @@
 | :----------- | :----------- | :----------- | :----------- |
 |  | T1 | P3135 | Fort Moo |
 |  | T2 | P3136 | Mowing the Field |
-|  | T3 |  | Lights Out|
+|  | T3 | P6176 | Lights Out|
 
 #### Gold
 
@@ -236,7 +236,7 @@
 
 |  | 编号 | 题号 | 题目名 |
 | :----------- | :----------- | :----------- | :----------- |
-|  | T1 |  | Angry Cows |
+|  | T1 | P6174 | Angry Cows |
 |  | T2 | P3131 | Subsequences Summing to Sevens |
 |  | T3 | P2771 | Build Gates|
 
@@ -246,17 +246,17 @@
 
 |  | 编号 | 题号 | 题目名 |
 | :----------- | :----------- | :----------- | :----------- |
-|  | T1 |  | Load Balancing |
+|  | T1 | P6172 | Load Balancing |
 |  | T2 | P3141 | Fenced In |
-|  | T3 |  | Circular Barn|
+|  | T3 | P6173 | Circular Barn|
 
 #### Gold
 
 |  | 编号 | 题号 | 题目名 |
 | :----------- | :----------- | :----------- | :----------- |
-|  | T1 |  | Circular Barn |
+|  | T1 | P6170 | Circular Barn |
 |  | T2 | P3140 | Circular Barn Revisited |
-|  | T3 |  | Fenced In|
+|  | T3 | P6171 | Fenced In|
 
 #### Silver
 
@@ -670,3 +670,28 @@
 |      | T2   | P6003 | Loan Repayment |
 |      | T3   | P6004 | Wormhole Sort  |
 
+### 2020 Feb
+
+#### Platinum
+
+|      | 编号 | 题号  | 题目名                |
+| ---- | ---- | ----- | --------------------- |
+|      | T1   | P6142 | Delegation            |
+|      | T2   | P6143 | Equilateral Triangles |
+|      | T3   | P6144 | Help Yourself         |
+
+#### Gold
+
+|      | 编号 | 题号  | 题目名        |
+| ---- | ---- | ----- | ------------- |
+|      | T1   | P6145 | Timeline      |
+|      | T2   | P6146 | Help Yourself |
+|      | T3   | P6147 | Delegation    |
+
+#### Silver
+
+|      | 编号 | 题号  | 题目名               |
+| ---- | ---- | ----- | -------------------- |
+|      | T1   | P6148 | Swapity Swapity Swap |
+|      | T2   | P6149 | Triangles            |
+|      | T3   | P6150 | Clock Tree           |
