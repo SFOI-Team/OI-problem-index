@@ -1,6 +1,120 @@
 # USACO Contests
 
-## Season 2013~2014
+## Season 2012-2013
+
+### 2012 Nov
+
+> 注：金组 T1 和银组 T3 共用一道题目。
+
+#### Gold
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3058 | Balanced Cow Breeds |
+|  | T2 | P3059 | Concurrently Balanced Strings |
+|  | T3 | P3060 | Balanced Trees |
+
+#### Silver
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3056 | Clumsy Cows |
+|  | T2 | P3057 | Distant Pastures |
+|  | T3 | P3058 | Balanced Cow Breeds |
+
+### 2012 Dec
+
+#### Gold
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3064 | Gangs of Instanbull/Cowstantinople |
+|  | T2 | P3065 | First! |
+|  | T3 | P3066 | Running Away From the Barn |
+
+#### Silver
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3061 | Crazy Fences |
+|  | T2 | P3062 | Wifi Setup |
+|  | T3 | P3063 | Milk Routing |
+
+### 2013 Jan
+
+#### Gold
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3069 | Cow Lineup |
+|  | T2 | P3070 | Island Travels |
+|  | T3 | P3071 | Seating |
+
+#### Silver
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P2202 | Painting the Fence |
+|  | T2 | P2205 | Square Overlap |
+|  | T3 | P3068 | Party Invitations |
+
+### 2013 Feb
+
+#### Gold
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3075 | Partitioning the Farm |
+|  | T2 | P3076 | Taxi |
+|  | T3 | P3077 | Route Design |
+
+#### Silver
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3072 | Perimeter |
+|  | T2 | P3073 | Tractor |
+|  | T3 | P3074 | Milk Scheduling |
+
+### 2013 Mar
+
+> 注：金组 T1 与银组 T3 共用一道题目。
+
+#### Gold
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3080 | The Cow Run |
+|  | T2 | P3081 | Hill Walk |
+|  | T3 | P3082 | Necklace |
+
+#### Silver
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3078 | Poker Hands |
+|  | T2 | P3079 | Farm Painting |
+|  | T3 | P3080 | The Cow Run |
+
+### 2013 Open
+
+#### Gold
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3084 | Photo |
+|  | T2 | P3085 | Yin and Yang |
+|  | T3 | P3086 | Figure Eight |
+
+#### Silver
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P2208 | What's Up With Gravity |
+|  | T2 | P2209 | Fuel Economy |
+|  | T3 | P3083 | Luxury River Cruise |
+
+## Season 2013-2014
 
 ### 2013 Nov
 
