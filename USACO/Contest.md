@@ -17,8 +17,8 @@
 |  | 编号 | 题号 | 题目名 |
 | :----------- | :----------- | :----------- | :----------- |
 |  | T1 | P6131 | Cow Beauty Pageant |
-|  | T2 | P3057 | Cow Lineup |
-|  | T3 | P3058 | Tile Exchanging |
+|  | T2 | P3029 | Cow Lineup |
+|  | T3 | P3030 | Tile Exchanging |
 
 ### 2011 Dec
 
@@ -463,7 +463,7 @@
 |  | 编号 | 题号 | 题目名 |
 | :----------- | :----------- | :----------- | :----------- |
 |  | T1 | P3132 | Angry Cows |
-|  | T2 | P3133 | Mowing the Field |
+|  | T2 | P3133 | Radio Contact |
 |  | T3 | P3134 | Lights Out|
 
 #### Silver
@@ -776,11 +776,11 @@
 
 #### Platinum
 
-|      | 编号 | 题号  | 题目名          |
-| ---- | ---- | ----- | --------------- |
-|      | T1   | P5202 | Redistricting   |
-|      | T2   | P5203 | Moorio Kart     |
-|      | T3   | P5204 | Mowing Mischief |
+|      | 编号 | 题号  | 题目名           |
+| ---- | ---- | ----- | ---------------- |
+|      | T1   | P5202 | Redistricting    |
+|      | T2   | P5203 | Exercise Route   |
+|      | T3   | P5204 | Train Tracking 2 |
 
 #### Gold
 
