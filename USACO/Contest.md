@@ -43,16 +43,35 @@
 |  | 编号 | 题号 | 题目名 |
 | :----------- | :----------- | :----------- | :----------- |
 |  | T1 | P2017 | Dizzy Cows |
-|  | T2 | P2966 | Cow Toll Paths | ---编写到此处，以下未编写
-|  | T3 | P2963 | Cow Rescue |
+|  | T2 | P2966 | Cow Toll Paths |
+|  | T3 | P2967 | Video Game Troubles |
 
 #### Silver
 
 |  | 编号 | 题号 | 题目名 |
 | :----------- | :----------- | :----------- | :----------- |
-|  | T1 | P2964 | A Coin Game |
-|  | T2 | P2965 | The Grand Farm-off |
-|  | T3 | P1938 | Job Hunt |
+|  | T1 | P2968 | Bobsledding |
+|  | T2 | P2969 | Music Notes |
+|  | T3 | P2970 | Selfish Grazing |
+
+### 2010 Hol
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P2971 | Cow Politics |
+|  | T2 | P2972 | Rocks and Trees |
+|  | T3 | P2973 | Driving Out the Piggies |
+|  | T4 | P2974 | Cow War |
+
+### 2010 Jan
+
+#### Gold
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P2975 | Taking Turns |
+|  | T2 | P2976 | Shipping Around an Island |
+|  | T3 | P2977 | Cow Telephones |----编写到此处，以下未编写
 
 ## Season 2011-2012
 
