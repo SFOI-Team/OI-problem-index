@@ -16,14 +16,7 @@
 |  | T6 | P2960 | Invasion of the Milkweed |
 |  | T7 | P2376 | Allowance |
 |  | T8 | P2639 | Bessie's Weight Problem |
-|  | T9 | P1339 | Heat Wave |
-
-#### Silver
-
-|  | 编号 | 题号 | 题目名 |
-| :----------- | :----------- | :----------- | :----------- |
-|  | T1 |  | Dinner Time |
-|  | T2 |  | Lake Counting |
+|  | T9 | P2339 | Heat Wave |
 
 ## Season 2011-2012
 
