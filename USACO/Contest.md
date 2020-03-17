@@ -1,15 +1,22 @@
 # USACO Contests
 
-## Season 2010-2011
+## Season 2009-2010
 
-### 2010 Oct
+### 2009 Oct
 
 #### Gold
 
 |  | 编号 | 题号 | 题目名 |
 | :----------- | :----------- | :----------- | :----------- |
-|  | T1 |  | Making Money |
-|  | T2 |  | Soda Machine |
+|  | T1 | P2955 | Even? Odd? |
+|  | T2 | P2956 | The Robot Plow |
+|  | T3 | P2957 | Barn Echoes |
+|  | T4 | P2958 | Papaya Jungle |
+|  | T5 | P2959 | The Leisurely Stroll |
+|  | T6 | P2960 | Invasion of the Milkweed |
+|  | T7 | P2376 | Allowance |
+|  | T8 | P2639 | Bessie's Weight Problem |
+|  | T9 | P1339 | Heat Wave |
 
 #### Silver
 
@@ -18,22 +25,6 @@
 |  | T1 |  | Dinner Time |
 |  | T2 |  | Lake Counting |
 
-### 2010 Nov
-
-#### Gold
-
-|  | 编号 | 题号 | 题目名 |
-| :----------- | :----------- | :----------- | :----------- |
-|  | T1 |  | Cow Photographs |
-|  | T2 |  | Buying Feed |
-|  | T3 |  | Visiting Cows |
-
-#### Silver
-
-|  | 编号 | 题号 | 题目名 |
-| :----------- | :----------- | :----------- | :----------- |
-|  | T1 |  | Banner |
-|  | T2 |  | Candy |
 ## Season 2011-2012
 
 ### 2011 Nov
