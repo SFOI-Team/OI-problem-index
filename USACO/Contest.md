@@ -1,5 +1,141 @@
 # USACO Contests
 
+## Season 2008-2009
+
+### 2008 Oct
+
+#### Gold
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P2911 | Bovine Bones |
+|  | T2 | P6184 | Building A Fence |
+|  | T3 | P1550 | Watering Hole |
+|  | T4 | P2912 | Pasture Walking |
+|  | T5 | P2913 | Wheel Rotation |
+|  | T6 | P2914 | Power Failure |
+
+### 2008 Nov
+
+#### Gold
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P2915 | Mixed Up Cows |
+|  | T2 | P2916 | Cheering up the Cows |
+|  | T3 | P2846 | Light Switching |
+|  | T4 | P2917 | Toys |
+
+#### Silver
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P2918 | Buying Hay |
+|  | T2 | P2919 | Guarding the Farm |
+|  | T3 | P2920 | Time Management |
+
+### 2008 Dec
+
+#### Gold
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P2921 | Trick or Treat on the Farm |
+|  | T2 | P2922 | Secret Message |
+|  | T3 | P2923 | Winning Checkers |
+|  | T4 | P2924 | Largest Fence |
+
+#### Silver
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P2925 | Hay For Sale |
+|  | T2 | P2926 | Patting Heads |
+|  | T3 | P2927 | Jigsaw Puzzles |
+
+### 2009 Hol
+
+#### Gold
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P2928 | Cattle Bruisers |
+|  | T2 | P2929 | Transmission Delay |
+|  | T3 | P2930 | Holiday Painting |
+|  | T4 | P2931 | Pearl Bracelet |
+
+### 2009 Jan
+
+#### Gold
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P2932 | Earthquake Damage |
+|  | T2 | P2933 | The Baric Bovine |
+|  | T3 | P2934 | Safe Travel |
+
+#### Silver
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P2935 | Best Spot |
+|  | T2 | P2936 | Total Flow |
+|  | T3 | P2937 | Laserphones |
+
+### 2009 Feb
+
+#### Gold
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P2980 | Covering the Corral |
+|  | T2 | P2981 | Cows on Ice |
+|  | T3 | P2982 | Slowing down |
+
+#### Silver
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P2983 | Chocolate Buying |
+|  | T2 | P2984 | Chocolate Giving |
+|  | T3 | P2985 | Chocolate Eating |
+
+### 2009 Mar
+
+#### Gold
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P2986 | Great Cow Gathering |
+|  | T2 | P1937 | Barn Allocation |
+|  | T3 | P2987 | StarCowraft |
+
+#### Silver
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P6183 | The Rock Game |
+|  | T2 | P2988 | Test Taking |
+|  | T3 | P2989 | Need For Speed |
+
+### 2009 Open
+
+#### Gold
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P2990 | Cow Hopscotch |
+|  | T2 | P2991 | Water Slides |
+|  | T3 | P2992 | Triangle Counting |
+
+#### Silver
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 |  | Cows in Trees |
+|  | T2 | P6181 | Mountain Watching |
+|  | T3 | P6182 | Time Travel |
+-----------以上未编写
 ## Season 2009-2010
 
 ### 2009 Oct
@@ -55,6 +191,8 @@
 |  | T3 | P2970 | Selfish Grazing |
 
 ### 2010 Hol
+
+#### Gold
 
 |  | 编号 | 题号 | 题目名 |
 | :----------- | :----------- | :----------- | :----------- |
