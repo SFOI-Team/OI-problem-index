@@ -1,5 +1,194 @@
 # USACO Contests
 
+## Season 2007-2008
+
+### 2007 Oct
+
+#### Gold
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P1474 | Cow Cash |
+|      | T2   | P6200 | Super Paintball |
+
+#### Silver
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P2666 | Bessie's Secret Pasture |
+|      | T2   | P1649 | Obstacle Course |
+
+#### Bronze
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   |  | Privileged Cows |
+|      | T2   | CF914A | Perfect Squares |
+
+### 2007 Nov
+
+#### Gold
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P2885 | Telephone Wire |
+|      | T2   | P2886 | Cow Relays |
+|      | T3   | P2887 | Sunscreen |
+
+#### Silver
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P2888 | Cow Hurdlesessie's Secret Pasture |
+|      | T2   | P2889 | Milking Time |
+|      | T3   | P6140 | Best Cow Line |
+
+#### Bronze
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   |  | Exploration |
+|      | T2   |  | Speed Reading |
+|      | T3   |  | Avoid The Lakes |
+
+### 2007 Dec
+
+#### Gold
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P2868 | Sightseeing Cows |
+|      | T2   | P2869 | Gourmet Grazers |
+|      | T3   | P2870 | Best Cow Line |
+
+#### Silver
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P2871 | Charm Bracelet |
+|      | T2   | P2872 | Building Roads |
+|      | T3   | P2873 | Mud Puddles |
+
+#### Bronze
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P2676 | Bookshelf |
+|      | T2   | P2677 | Bookshelf 2 |
+|      | T3   |  | Card Stacking |
+
+### 2007 CHn
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P6202 | Summing Sums |
+|      | T2   | P6203 | The Bovine Accordion and Banjo Orchestra |
+|      | T3   | P6204 | Treasure |
+
+### 2008 Jan
+
+#### Gold
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P2898 | Haybale Guessing |
+|      | T2   | P2897 | Artificial Lake |
+|      | T3   | P2899 | Cell Phone Network |
+
+#### Silver
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P2419 | Cow Contest |
+|      | T2   | P1353 | Running |
+|      | T3   | P1948 | Telephone Lines |
+
+#### Bronze
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   |  | Costume Party |
+|      | T2   |  | Election Time |
+|      | T3   | P2035 | iCow |
+
+### 2008 Feb
+
+#### Gold
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P2893 | Making the Grade |
+|      | T2   |  | Cow Game |
+|      | T3   | P2895 | Hotel |
+
+#### Silver
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P2665 | Game of Lines |
+|      | T2   | P2895 | Meteor Shower |
+|      | T3   | P2896 | Eating Together |
+
+#### Bronze
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P2837 | Dining Cows |
+|      | T2   |  | Long Distance Racing |
+|      | T3   |  | Cow Multiplication |
+
+### 2008 Mar
+
+#### Gold
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P2900 | Land Acquisition |
+|      | T2   | P2901 | Cow Jogging |
+|      | T3   | P2902 | Pearl Pairing |
+
+#### Silver
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P2903 | The Loathesome Hay Baler |
+|      | T2   | P1535 | Cow Travelling |
+|      | T3   | P2904 | River Crossing |
+
+#### Bronze
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   |  | Statistics |
+|      | T2   |  | Lake Making |
+|      | T3   |  | Oh Those Rollers |
+
+### 2008 Open
+
+#### Gold
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   |  | The Ultimate Battle |
+|      | T2   | P2905 | Crisis on the Farm |
+|      | T3   | P2906 | Cow Neighborhoods |
+
+#### Silver
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P2907 | Roads Around The Farm |
+|      | T2   | P2908 | Word Power |
+|      | T3   | P2909 | Cow Cars |
+
+#### Bronze
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   |  | Best Grass |
+|      | T2   |  | Going to the Movies |
+|      | T3   |  | Clear Cold Water |
+
 ## Season 2008-2009
 
 ### 2008 Oct
