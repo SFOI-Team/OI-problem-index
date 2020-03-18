@@ -88,17 +88,17 @@
 
 |  | 编号 | 题号 | 题目名 |
 | :----------- | :----------- | :----------- | :----------- |
-|  | T1 | P2980 | Covering the Corral |
-|  | T2 | P2981 | Cows on Ice |
-|  | T3 | P2982 | Slowing down |
+|  | T1 | P1607 | Fair Shuttle |
+|  | T2 | P2938 | Stock Market |
+|  | T3 | P2939 | Revamping Trails |
 
 #### Silver
 
 |  | 编号 | 题号 | 题目名 |
 | :----------- | :----------- | :----------- | :----------- |
-|  | T1 | P2983 | Chocolate Buying |
-|  | T2 | P2984 | Chocolate Giving |
-|  | T3 | P2985 | Chocolate Eating |
+|  | T1 | P2940 | The Leprechaun |
+|  | T2 | P2941 | Surround the Islands |
+|  | T3 | P6191 | Bulls and Cows |
 
 ### 2009 Mar
 
@@ -106,17 +106,17 @@
 
 |  | 编号 | 题号 | 题目名 |
 | :----------- | :----------- | :----------- | :----------- |
-|  | T1 | P2986 | Great Cow Gathering |
-|  | T2 | P1937 | Barn Allocation |
-|  | T3 | P2987 | StarCowraft |
+|  | T1 | P2942 | Moon Mooing |
+|  | T2 | P2943 | Cleaning Up |
+|  | T3 | P2944 | Earthquake Damage 2 |
 
 #### Silver
 
 |  | 编号 | 题号 | 题目名 |
 | :----------- | :----------- | :----------- | :----------- |
-|  | T1 | P6183 | The Rock Game |
-|  | T2 | P2988 | Test Taking |
-|  | T3 | P2989 | Need For Speed |
+|  | T1 | P2945 | Sand Castle |
+|  | T2 | P2946 | Cow Frisbee Team |
+|  | T3 | P2947 | Look Up |
 
 ### 2009 Open
 
@@ -124,18 +124,20 @@
 
 |  | 编号 | 题号 | 题目名 |
 | :----------- | :----------- | :----------- | :----------- |
-|  | T1 | P2990 | Cow Hopscotch |
-|  | T2 | P2991 | Water Slides |
-|  | T3 | P2992 | Triangle Counting |
+|  | T1 | P2948 | Ski Lessons |
+|  | T2 | P2949 | Work Scheduling |
+|  | T3 | P4954 | Tower of Hay |
+|  | T4 | P2950 | Bovine Embroidery |
 
 #### Silver
 
 |  | 编号 | 题号 | 题目名 |
 | :----------- | :----------- | :----------- | :----------- |
-|  | T1 |  | Cows in Trees |
-|  | T2 | P6181 | Mountain Watching |
-|  | T3 | P6182 | Time Travel |
------------以上未编写
+|  | T1 | P2951 | Hide and Seek |
+|  | T2 | P2952 | Cow Line |
+|  | T3 | P2953 | Cow Digit Game |
+|  | T4 | P2954 | Grazing2 |
+
 ## Season 2009-2010
 
 ### 2009 Oct
