@@ -125,7 +125,7 @@
 | :----------- | :----------- | :----------- | :----------- |
 |  | T1 | P2990 | Cow Hopscotch |
 |  | T2 | P2991 | Water Slides |
-|  | T3 | P2992 | Triangle Counting |----编写到此处，以下未编写
+|  | T3 | P2992 | Triangle Counting |
 
 #### Silver
 
