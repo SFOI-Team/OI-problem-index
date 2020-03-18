@@ -18,13 +18,6 @@
 |      | T1   | P2666 | Bessie's Secret Pasture |
 |      | T2   | P1649 | Obstacle Course |
 
-#### Bronze
-
-|      | 编号 | 题号  | 题目名       |
-| ---- | ---- | ----- | ------------ |
-|      | T1   |  | Privileged Cows |
-|      | T2   |  | Perfect Squares |
-
 ### 2007 Nov
 
 #### Gold
@@ -42,14 +35,6 @@
 |      | T1   | P2888 | Cow Hurdlesessie's Secret Pasture |
 |      | T2   | P2889 | Milking Time |
 |      | T3   | P6140 | Best Cow Line |
-
-#### Bronze
-
-|      | 编号 | 题号  | 题目名       |
-| ---- | ---- | ----- | ------------ |
-|      | T1   |  | Exploration |
-|      | T2   |  | Speed Reading |
-|      | T3   |  | Avoid The Lakes |
 
 ### 2007 Dec
 
@@ -69,15 +54,9 @@
 |      | T2   | P2872 | Building Roads |
 |      | T3   | P2873 | Mud Puddles |
 
-#### Bronze
+### 2007 Chn
 
-|      | 编号 | 题号  | 题目名       |
-| ---- | ---- | ----- | ------------ |
-|      | T1   | P2676 | Bookshelf |
-|      | T2   | P2677 | Bookshelf 2 |
-|      | T3   |  | Card Stacking |
-
-### 2007 CHn
+#### Gold
 
 |      | 编号 | 题号  | 题目名       |
 | ---- | ---- | ----- | ------------ |
@@ -103,14 +82,6 @@
 |      | T2   | P1353 | Running |
 |      | T3   | P1948 | Telephone Lines |
 
-#### Bronze
-
-|      | 编号 | 题号  | 题目名       |
-| ---- | ---- | ----- | ------------ |
-|      | T1   |  | Costume Party |
-|      | T2   |  | Election Time |
-|      | T3   | P2035 | iCow |
-
 ### 2008 Feb
 
 #### Gold
@@ -128,14 +99,6 @@
 |      | T1   | P2665 | Game of Lines |
 |      | T2   | P2895 | Meteor Shower |
 |      | T3   | P2896 | Eating Together |
-
-#### Bronze
-
-|      | 编号 | 题号  | 题目名       |
-| ---- | ---- | ----- | ------------ |
-|      | T1   | P2837 | Dining Cows |
-|      | T2   |  | Long Distance Racing |
-|      | T3   |  | Cow Multiplication |
 
 ### 2008 Mar
 
@@ -155,14 +118,6 @@
 |      | T2   | P1535 | Cow Travelling |
 |      | T3   | P2904 | River Crossing |
 
-#### Bronze
-
-|      | 编号 | 题号  | 题目名       |
-| ---- | ---- | ----- | ------------ |
-|      | T1   |  | Statistics |
-|      | T2   |  | Lake Making |
-|      | T3   |  | Oh Those Rollers |
-
 ### 2008 Open
 
 #### Gold
@@ -180,14 +135,6 @@
 |      | T1   | P2907 | Roads Around The Farm |
 |      | T2   | P2908 | Word Power |
 |      | T3   | P2909 | Cow Cars |
-
-#### Bronze
-
-|      | 编号 | 题号  | 题目名       |
-| ---- | ---- | ----- | ------------ |
-|      | T1   |  | Best Grass |
-|      | T2   |  | Going to the Movies |
-|      | T3   |  | Clear Cold Water |
 
 ## Season 2008-2009
 
