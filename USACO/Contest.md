@@ -23,7 +23,7 @@
 |      | 编号 | 题号  | 题目名       |
 | ---- | ---- | ----- | ------------ |
 |      | T1   |  | Privileged Cows |
-|      | T2   | CF914A | Perfect Squares |
+|      | T2   |  | Perfect Squares |
 
 ### 2007 Nov
 
