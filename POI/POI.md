@@ -1,5 +1,37 @@
 # POI
 
+## 6th（1998-1999）
+
+### Stage 1
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P5932 | Gra w wielokąty |
+|  | T2 |  | Monocyfrowe reprezentacje |
+|  | T3 |  | Muszkieterowie |
+|  | T4 |  | Puste prostopadłościany |
+
+### Stage 2
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 | P5936 | Rakiety |
+|  | D1T1 |  | Grotołazi |
+|  | D1T2 |  | Lunatyk |
+|  | D2T1 |  | Bitmapa |
+|  | D2T2 |  | Lodowisko |
+
+### Stage 3
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Trójkolorowe drzewa binarne |
+|  | D1T1 |  | Magazynier |
+|  | D1T2 | P5929 | Mapa |
+|  | D2T1 | P5938 | Ołtarze |
+|  | D2T2 | P5921 | Pierwotek abstrakcyjny |
+|  | D2T3 | P5930 | Woda |
+
 ## 7th（1999-2000）
 
 ### Stage 1
