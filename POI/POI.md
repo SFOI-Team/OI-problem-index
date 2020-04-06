@@ -1,5 +1,37 @@
 # POI
 
+## 4th（1996-1997）
+
+### Stage 1
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 |  | Tanie podróże |
+|  | T2 |  | Bramki XOR |
+|  | T3 |  | Liczba wyborów symetrycznych |
+
+### Stage 2
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Lotniska |
+|  | D1T1 | P5941 | Addon|
+|  | D1T2 |  | Genotypy |
+|  | D2T1 |  | Paliwo |
+|  | D2T2 |  | Rekurencyjna mrówka |
+
+### Stage 3
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Wiarygodność świadków |
+|  | D1T1 |  | Kajaki |
+|  | D1T2 |  | Liczba zbiorów n-k-specjalnych |
+|  | D1T3 |  | Trójkąty jednobarwne |
+|  | D2T1 |  | Rezerwacja sal wykładowcych |
+|  | D2T2 |  | Alibaba |
+|  | D2T3 | P5940 | Skok w bok |
+
 ## 5th（1997-1998）
 
 ### Stage 1
