@@ -1,5 +1,38 @@
 # POI
 
+## 5th（1997-1998）
+
+### Stage 1
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 |  | AB-słowa |
+|  | T2 |  | Pracownia malarska |
+|  | T3 |  | Suma ciągu jedynkowego |
+|  | T4 |  | Wielokąt |
+
+### Stage 2
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Sieć dróg |
+|  | D1T1 |  | Pakowanie kontenerów |
+|  | D1T2 |  | Równanie na słowach |
+|  | D2T1 |  | Okno |
+|  | D2T2 |  | Płetwonurek |
+
+### Stage 3
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Układy asemblerowe |
+|  | D1T1 |  | Bankomaty |
+|  | D1T2 |  | Gonitwa |
+|  | D1T3 |  | Najlżejszy język |
+|  | D2T1 | P5939 | Łamane płaskie |
+|  | D2T2 |  | Prostokąty |
+|  | D2T3 |  | Gra Ulama |
+
 ## 6th（1998-1999）
 
 ### Stage 1
