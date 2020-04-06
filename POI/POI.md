@@ -1,5 +1,67 @@
 # POI
 
+## 2nd（1994-1995）
+
+### Stage 1
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 |  | Drzewa |
+|  | T2 |  | Jedynki i zera |
+|  | T3 |  | Jedynki i zera 2 |
+|  | T4 |  | Optymalizacja dysku |
+|  | T5 |  | Palindromy |
+
+### Stage 2
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Klub Prawoskrętnych Kierowców |
+|  | D1T1 |  | Mudstock Bis |
+|  | D1T2 |  | Trójkąty |
+|  | D2T1 |  | Szachownica |
+|  | D2T2 |  | Wielokąt |
+
+### Stage 3
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Kodowanie permutacji |
+|  | D1T1 |  | Obchodzenie Drzewa Skokami |
+|  | D1T2 |  | Pochylnia |
+|  | D2T1 |  | Składanie słów |
+|  | D2T2 |  | Szeregowanie czynności |
+
+## 3rd（1995-1996）
+
+### Stage 1
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 |  | Pręty |
+|  | T2 |  | Zamek |
+|  | T3 |  | Mokra robota |
+|  | T4 |  | Gońcy |
+
+### Stage 2
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Pięć monet |
+|  | D1T1 |  | Wieże |
+|  | D2T1 |  | Słowa Fibonacciego |
+|  | D2T2 |  | Hazard |
+
+### Stage 3
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Permutacje antyarytmetyczne |
+|  | D1T1 |  | Agenci |
+|  | D1T2 |  | Kule |
+|  | D2T1 |  | Nieatakujące się skoczki |
+|  | D2T2 |  | Wyrównywanie słów |
+
 ## 4th（1996-1997）
 
 ### Stage 1
