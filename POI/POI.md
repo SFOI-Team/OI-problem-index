@@ -1,5 +1,32 @@
 # POI
 
+## 1st（1993-1994）
+
+### Stage 1
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 |  | Pionki |
+|  | T2 |  | Trójkąty |
+|  | T3 |  | Sponsor  |
+
+### Stage 2
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Wyspy na trójkątnej sieci|
+|  | D0T2 |  | Suma kwadratów cyfr |
+|  | D1T1 |  | Przedsięwzięcie |
+
+### Stage 3
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Wahania akcji na giełdzie |
+|  | D1T1 |  | Anagramy |
+|  | D1T2 |  | Nasycanie makrofanów |
+|  | D2T1 |  | Przepustowość sieci |
+
 ## 2nd（1994-1995）
 
 ### Stage 1
