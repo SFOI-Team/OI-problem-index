@@ -1,5 +1,37 @@
 # POI
 
+## 7th（1999-2000）
+
+### Stage 1
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 |  | Gdzie zbudować browar? |
+|  | T2 |  | Narciarze |
+|  | T3 | P2444 | Wirusy |
+|  | T4 |  | Paski |
+
+### Stage 2
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Podpisy |
+|  | D1T1 |  | Automorfizmy |
+|  | D1T2 |  | Trójramienny dźwig |
+|  | D2T1 |  | Kod |
+|  | D2T2 |  | Labirynt studni |
+
+### Stage 3
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Lollobrigida |
+|  | D1T1 |  | Po-łamana |
+|  | D1T2 |  | Jajka |
+|  | D2T1 |  | Agenci |
+|  | D2T2 | P5546 | Powtórzenia |
+|  | D2T3 |  | Promocja |
+
 ## 8th（2000-2001）
 
 ### Stage 1
