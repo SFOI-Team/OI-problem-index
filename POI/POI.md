@@ -1,5 +1,38 @@
 # POI
 
+## 10th（2002-2003）
+
+### Stage 1
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 |  | Ciągi bez zająknięć |
+|  | T2 |  | Liczby Przesmyków |
+|  | T3 | P5948 | Czekolada |
+|  | T4 |  | Przemytnicy |
+|  | T5 |  | Płytki drukowane |
+
+### Stage 2
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  |  Mastermind II |
+|  | D1T1 | P5947 | Trójmian |
+|  | D1T2 |  | Autostrady |
+|  | D2T1 |  | Połączenia |
+|  | D2T2 |  | Kafelki |
+
+### Stage 3
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Gra w dzielniki |
+|  | D1T1 |  | Skarb |
+|  | D1T2 |  | Sumy |
+|  | D2T1 |  | Małpkl |
+|  | D2T2 |  | Tasowanie |
+|  | D2T3 |  | Kryształ |
+
 ## 11th（2003-2004）
 
 ### Stage 1
