@@ -1,5 +1,70 @@
 # POI
 
+## 8th（2000-2001）
+
+### Stage 1
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P1463 | Liczby antypierwsze |
+|  | T2 |  | Mapa gęstości |
+|  | T3 |  | Przedziały |
+|  | T4 |  | Gra w zielone |
+
+### Stage 2
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  |   Gorszy Goldbach |
+|  | D1T1 |  | Wyspa |
+|  | D1T2 | P5782 | Spokojna komisja |
+|  | D2T1 |  | Mrówki i biedronka |
+|  | D2T2 |  | Podróż |
+
+### Stage 3
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Wędrowni treserzy pcheł |
+|  | D1T1 |  | Porównywanie naszyjników |
+|  | D1T2 |  | Zwiedzanie miasta |
+|  | D2T1 |  | Bank |
+|  | D2T2 |  | Kopalnia złota |
+|  | D2T3 |  | Łańcuch |
+
+## 9th（2001-2002）
+
+### Stage 1
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 |  | Superskoczek |
+|  | T2 |  | Koleje |
+|  | T3 | P5942 | Komiwojażer Bajtazar |
+|  | T4 |  | Wyspa |
+|  | T5 |  | Zamek |
+
+### Stage 2
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  |   Izolator |
+|  | D1T1 | P5943 | Działka |
+|  | D1T2 | P5944 | Wyliczanka |
+|  | D2T1 |  | Kurort narciarski |
+|  | D2T2 | P5945 | Protokoły |
+
+### Stage 3
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Minusy |
+|  | D1T1 |  | Narciarze |
+|  | D1T2 |  | Waga |
+|  | D2T1 |  | Nawiasy |
+|  | D2T2 |  | Szyfr |
+|  | D2T3 | P5946 | Liczby B-gładkie |
+
 ## 10th（2002-2003）
 
 ### Stage 1
