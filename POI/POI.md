@@ -1,5 +1,388 @@
 # POI
 
+## 1st（1993-1994）
+
+### Stage 1
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 |  | Pionki |
+|  | T2 |  | Trójkąty |
+|  | T3 |  | Sponsor  |
+
+### Stage 2
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Wyspy na trójkątnej sieci|
+|  | D0T2 |  | Suma kwadratów cyfr |
+|  | D1T1 |  | Przedsięwzięcie |
+
+### Stage 3
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Wahania akcji na giełdzie |
+|  | D1T1 |  | Anagramy |
+|  | D1T2 |  | Nasycanie makrofanów |
+|  | D2T1 |  | Przepustowość sieci |
+
+## 2nd（1994-1995）
+
+### Stage 1
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 |  | Drzewa |
+|  | T2 |  | Jedynki i zera |
+|  | T3 |  | Jedynki i zera 2 |
+|  | T4 |  | Optymalizacja dysku |
+|  | T5 |  | Palindromy |
+
+### Stage 2
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Klub Prawoskrętnych Kierowców |
+|  | D1T1 |  | Mudstock Bis |
+|  | D1T2 |  | Trójkąty |
+|  | D2T1 |  | Szachownica |
+|  | D2T2 |  | Wielokąt |
+
+### Stage 3
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Kodowanie permutacji |
+|  | D1T1 |  | Obchodzenie Drzewa Skokami |
+|  | D1T2 |  | Pochylnia |
+|  | D2T1 |  | Składanie słów |
+|  | D2T2 |  | Szeregowanie czynności |
+
+## 3rd（1995-1996）
+
+### Stage 1
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 |  | Pręty |
+|  | T2 |  | Zamek |
+|  | T3 |  | Mokra robota |
+|  | T4 |  | Gońcy |
+
+### Stage 2
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Pięć monet |
+|  | D1T1 |  | Wieże |
+|  | D2T1 |  | Słowa Fibonacciego |
+|  | D2T2 |  | Hazard |
+
+### Stage 3
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Permutacje antyarytmetyczne |
+|  | D1T1 |  | Agenci |
+|  | D1T2 |  | Kule |
+|  | D2T1 |  | Nieatakujące się skoczki |
+|  | D2T2 |  | Wyrównywanie słów |
+
+## 4th（1996-1997）
+
+### Stage 1
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 |  | Tanie podróże |
+|  | T2 |  | Bramki XOR |
+|  | T3 |  | Liczba wyborów symetrycznych |
+
+### Stage 2
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Lotniska |
+|  | D1T1 | P5941 | Addon|
+|  | D1T2 |  | Genotypy |
+|  | D2T1 |  | Paliwo |
+|  | D2T2 |  | Rekurencyjna mrówka |
+
+### Stage 3
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Wiarygodność świadków |
+|  | D1T1 |  | Kajaki |
+|  | D1T2 |  | Liczba zbiorów n-k-specjalnych |
+|  | D1T3 |  | Trójkąty jednobarwne |
+|  | D2T1 |  | Rezerwacja sal wykładowcych |
+|  | D2T2 |  | Alibaba |
+|  | D2T3 | P5940 | Skok w bok |
+
+## 5th（1997-1998）
+
+### Stage 1
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 |  | AB-słowa |
+|  | T2 |  | Pracownia malarska |
+|  | T3 |  | Suma ciągu jedynkowego |
+|  | T4 |  | Wielokąt |
+
+### Stage 2
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Sieć dróg |
+|  | D1T1 |  | Pakowanie kontenerów |
+|  | D1T2 |  | Równanie na słowach |
+|  | D2T1 |  | Okno |
+|  | D2T2 |  | Płetwonurek |
+
+### Stage 3
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Układy asemblerowe |
+|  | D1T1 |  | Bankomaty |
+|  | D1T2 |  | Gonitwa |
+|  | D1T3 |  | Najlżejszy język |
+|  | D2T1 | P5939 | Łamane płaskie |
+|  | D2T2 |  | Prostokąty |
+|  | D2T3 |  | Gra Ulama |
+
+## 6th（1998-1999）
+
+### Stage 1
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P5932 | Gra w wielokąty |
+|  | T2 |  | Monocyfrowe reprezentacje |
+|  | T3 |  | Muszkieterowie |
+|  | T4 |  | Puste prostopadłościany |
+
+### Stage 2
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 | P5936 | Rakiety |
+|  | D1T1 |  | Grotołazi |
+|  | D1T2 |  | Lunatyk |
+|  | D2T1 |  | Bitmapa |
+|  | D2T2 |  | Lodowisko |
+
+### Stage 3
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Trójkolorowe drzewa binarne |
+|  | D1T1 |  | Magazynier |
+|  | D1T2 | P5929 | Mapa |
+|  | D2T1 | P5938 | Ołtarze |
+|  | D2T2 | P5921 | Pierwotek abstrakcyjny |
+|  | D2T3 | P5930 | Woda |
+
+## 7th（1999-2000）
+
+### Stage 1
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 |  | Gdzie zbudować browar? |
+|  | T2 |  | Narciarze |
+|  | T3 | P2444 | Wirusy |
+|  | T4 |  | Paski |
+
+### Stage 2
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Podpisy |
+|  | D1T1 |  | Automorfizmy |
+|  | D1T2 |  | Trójramienny dźwig |
+|  | D2T1 |  | Kod |
+|  | D2T2 |  | Labirynt studni |
+
+### Stage 3
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Lollobrigida |
+|  | D1T1 |  | Po-łamana |
+|  | D1T2 |  | Jajka |
+|  | D2T1 |  | Agenci |
+|  | D2T2 | P5546 | Powtórzenia |
+|  | D2T3 |  | Promocja |
+
+## 8th（2000-2001）
+
+### Stage 1
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P1463 | Liczby antypierwsze |
+|  | T2 |  | Mapa gęstości |
+|  | T3 |  | Przedziały |
+|  | T4 |  | Gra w zielone |
+
+### Stage 2
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  |   Gorszy Goldbach |
+|  | D1T1 |  | Wyspa |
+|  | D1T2 | P5782 | Spokojna komisja |
+|  | D2T1 |  | Mrówki i biedronka |
+|  | D2T2 |  | Podróż |
+
+### Stage 3
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Wędrowni treserzy pcheł |
+|  | D1T1 |  | Porównywanie naszyjników |
+|  | D1T2 |  | Zwiedzanie miasta |
+|  | D2T1 |  | Bank |
+|  | D2T2 |  | Kopalnia złota |
+|  | D2T3 |  | Łańcuch |
+
+## 9th（2001-2002）
+
+### Stage 1
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 |  | Superskoczek |
+|  | T2 |  | Koleje |
+|  | T3 | P5942 | Komiwojażer Bajtazar |
+|  | T4 |  | Wyspa |
+|  | T5 |  | Zamek |
+
+### Stage 2
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  |   Izolator |
+|  | D1T1 | P5943 | Działka |
+|  | D1T2 | P5944 | Wyliczanka |
+|  | D2T1 |  | Kurort narciarski |
+|  | D2T2 | P5945 | Protokoły |
+
+### Stage 3
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Minusy |
+|  | D1T1 |  | Narciarze |
+|  | D1T2 |  | Waga |
+|  | D2T1 |  | Nawiasy |
+|  | D2T2 |  | Szyfr |
+|  | D2T3 | P5946 | Liczby B-gładkie |
+
+## 10th（2002-2003）
+
+### Stage 1
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 |  | Ciągi bez zająknięć |
+|  | T2 |  | Liczby Przesmyków |
+|  | T3 | P5948 | Czekolada |
+|  | T4 |  | Przemytnicy |
+|  | T5 |  | Płytki drukowane |
+
+### Stage 2
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  |  Mastermind II |
+|  | D1T1 | P5947 | Trójmian |
+|  | D1T2 |  | Autostrady |
+|  | D2T1 |  | Połączenia |
+|  | D2T2 |  | Kafelki |
+
+### Stage 3
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Gra w dzielniki |
+|  | D1T1 |  | Skarb |
+|  | D1T2 |  | Sumy |
+|  | D2T1 |  | Małpkl |
+|  | D2T2 |  | Tasowanie |
+|  | D2T3 |  | Kryształ |
+
+## 11th（2003-2004）
+
+### Stage 1
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 |  | Zawody |
+|  | T2 |  | Gra |
+|  | T3 |  | Szpiedzy |
+|  | T4 |  | Sznurki |
+|  | T5 |  | PIN-kod |
+
+### Stage 2
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 | P5914 |  Most |
+|  | D1T1 |  | Bramki |
+|  | D1T2 | P5912 | Jaskinia |
+|  | D2T1 |  | Turniej |
+|  | D2T2 | P5911 | Przeprawa |
+
+### Stage 3
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 |  | Zgadywanka |
+|  | D1T1 |  | Wschód-Zachód |
+|  | D1T2 |  | Wyspy |
+|  | D2T1 | P5919 | Maksymalne rzędy permutacji |
+|  | D2T2 | P5913 | Kaglony |
+|  | D2T3 |  | Misie-Patysie |
+
+## 12th（2004-2005）
+
+### Stage 1
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | T1 | P3417 | Bankomat |
+|  | T2 | P3418 | Punkty |
+|  | T3 | P3419 | Samochodziki |
+|  | T4 | P3420 | Skarbonki |
+|  | T5 | P3421 | Skoczki |
+
+### Stage 2
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 | P3422 | Lot na Marsa |
+|  | D1T1 | P3423 | Bramki |
+|  | D1T2 | P3424 | Sumy Fibonacciego |
+|  | D2T1 | P3426 | Szablon |
+|  | D2T2 | P3425 | Kości |
+
+### Stage 3
+
+|  | 编号 | 题号 | 题目名 |
+| :----------- | :----------- | :----------- | :----------- |
+|  | D0T1 | P3427 | Dziuple |
+|  | D1T1 | P3428 | Akcja komandosów |
+|  | D1T2 | P3429 | Dwa przyjęcia  |
+|  | D1T3 | P3430 | Dwuszereg |
+|  | D2T1 | P3432 | Lustrzana pułapka |
+|  | D2T2 | P3431 | Autobus |
+|  | D2T3 | P3433 | Prawoskrętny wielbłąd |
+
 ## 13th（2005-2006）
 
 ### Stage 1
