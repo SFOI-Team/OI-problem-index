@@ -1471,3 +1471,29 @@
 |      | T1   | P6148 | Swapity Swapity Swap |
 |      | T2   | P6149 | Triangles            |
 |      | T3   | P6150 | Clock Tree           |
+
+### 2020 Open
+
+#### Platinum
+
+|      | 编号 | 题号  | 题目名                |
+| ---- | ---- | ----- | --------------------- |
+|      | T1   | P6275 | Sprinklers 2: Return of the Alfalfa          |
+|      | T2   | P6276 | Exercise |
+|      | T3   | P6277 | Circus     |
+
+#### Gold
+
+|      | 编号 | 题号  | 题目名        |
+| ---- | ---- | ----- | ------------- |
+|      | T1   | P6278| Haircut    |
+|      | T2   | P6279 | Favorite Colors |
+|      | T3   | P6280 | Exercise  |
+
+#### Silver
+
+|      | 编号 | 题号  | 题目名               |
+| ---- | ---- | ----- | -------------------- |
+|      | T1   | P6181 | Social Distancing |
+|      | T2   | P6182 | Cereal         |
+|      | T3   | P6183 | The Moo Particle      |
